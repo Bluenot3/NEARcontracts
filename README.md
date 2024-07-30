@@ -8,5 +8,5 @@ ZEN AI CO. is at the forefront of integrating AI and blockchain technology. This
 ## Getting Started
 To get started with the repository, clone it to your local machine using the following command:
 ```bash
-git clone https://github.com/username/zen-near-contracts.git
+git clone https://github.com/Bluenot3/zen-near-contracts.git
 # NEARcontracts
